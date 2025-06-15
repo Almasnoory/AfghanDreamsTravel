@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aghans Dreams Travel</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #f8f9fa;
+    }
+    header {
+      background-color: #003366;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #00539C;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 20px;
+    }
+    .section-title {
+      color: #003366;
+      border-bottom: 2px solid #ffc107;
+      margin-bottom: 10px;
+    }
+    footer {
+      background-color: #003366;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Aghans Dreams Travel</h1>
+  <p>Your Bridge to Education, Tourism, and Medical Travel</p>
+</header>
+
+<nav>
+  <a href="#education">Education</a>
+  <a href="#tourism">Tourism</a>
+  <a href="#medical">Medical Tourism</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<section id="education">
+  <h2 class="section-title">🎓 Student Visa & University Applications</h2>
+  <p>We assist Afghan students in applying to top universities in the USA, UK, Canada, Germany, and Australia. Our services include admission guidance, document preparation, and visa support.</p>
+</section>
+
+<section id="tourism">
+  <h2 class="section-title">✈️ Travel & Tourism</h2>
+  <p>Explore exciting travel destinations with our customized packages, ticketing services, and hotel booking assistance. Whether for business or leisure, we’ve got your journey covered.</p>
+</section>
+
+<section id="medical">
+  <h2 class="section-title">🏥 Medical Tourism</h2>
+  <p>Need treatment abroad? We connect you with reputable hospitals and clinics in India, Turkey, Germany, and more — helping you every step of the way from consultation to travel and lodging.</p>
+</section>
+
+<section id="contact">
+  <h2 class="section-title">📞 Contact Us</h2>
+  <p>Email: aghansdreams@email.com</p>
+  <p>Phone: +93 XXX XXX XXX</p>
+  <p>WhatsApp: +93 XXX XXX XXX</p>
+</section>
+
+<footer>
+  <p>&copy; 2025 Aghans Dreams Travel. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
